@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm prajwala</h1>
 <h3 align="center">A passionate Software engineer from India.</h3>
-<img align="right" alt="coding" width="400" src="https://gradients.shecodes.io/goodies">
+<img align="right" alt="coding" width="400" src="![image](https://github.com/Prajwalajadhav/Prajwalajadhav/assets/90131607/fb9cafab-2205-47e2-a8be-f7e800fecd52)">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prajwalajadhav&label=Profile%20views&color=0e75b6&style=flat" alt="prajwalajadhav" /> </p>
 
 - 📫 How to reach me **prajwalajadhav27@gmail.com**
