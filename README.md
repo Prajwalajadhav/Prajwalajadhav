@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm prajwala</h1>
 <h3 align="center">A passionate Software engineer from India.</h3>
-<img align="right" alt="coding" width="400" src=!https://github.com/Prajwalajadhav/Prajwalajadhav/assets/90131607/49f84053-0975-4081-8ab1-ba490bc7a527">
+<img align="right" alt="coding" width="400" src=https://github.com/Prajwalajadhav/Prajwalajadhav/assets/90131607/49f84053-0975-4081-8ab1-ba490bc7a527">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prajwalajadhav&label=Profile%20views&color=0e75b6&style=flat" alt="prajwalajadhav" /> </p>
 
