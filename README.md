@@ -1,5 +1,5 @@
 ![image](https://github.com/Prajwalajadhav/Prajwalajadhav/assets/90131607/d5eeaea6-381e-4f1f-9474-bbf5b4b4bee9)
-(https://Prajwalajadhav.io)
+
 <h1 align="center">Hi 👋, I'm Prajwala</h1>
 <h3 align="center">A passionate software engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
