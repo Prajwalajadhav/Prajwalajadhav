@@ -1,5 +1,4 @@
-[![MasterHead](https://github.com/Prajwalajadhav/Prajwalajadhav/assets/90131607/c6afc25b-82ec-4635-a48c-4f53d399f6bf)
-
+[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://Prajwalajadhav.io)
 <h1 align="center">Hi 👋, I'm Prajwala</h1>
 <h3 align="center">A passionate software engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
