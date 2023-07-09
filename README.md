@@ -1,4 +1,5 @@
-[![MasterHead](https://github.com/Prajwalajadhav/Prajwalajadhav/assets/90131607/bee03bde-5c5c-4bcc-b8ff-387b4a18fa0f)
+[![MasterHead]![image](https://github.com/Prajwalajadhav/Prajwalajadhav/assets/90131607/243183e0-4ea8-46c9-9a98-65401e08ee40)
+
 
 
 <h1 align="center">Hi 👋, I'm Prajwala</h1>
