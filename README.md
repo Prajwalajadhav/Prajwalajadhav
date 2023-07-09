@@ -1,4 +1,5 @@
-[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://rishavchanda.io)
+[![MasterHead](https://github.com/Prajwalajadhav/Prajwalajadhav/assets/90131607/4dad3b3e-9d0e-4159-bb14-49104a2422c6)
+
 
 
 
