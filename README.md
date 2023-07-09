@@ -2,14 +2,19 @@
 <h3 align="center">A passionate software engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prajwalajadhav&label=Profile%20views&color=0e75b6&style=flat" alt="prajwalajadhav" /> </p>
+
+- 🔭 I’m currently **working on myself to learn new things about programming**
+
+- 🌱 I’m currently learning **about artificial intelligence.**
 
 - 💬 Ask me about **CPP,JAVA ,C.**
 
 - 📫 How to reach me **prajwalajadhav27@gmail.com**
 
-- ⚡ Fun fact **Something I can improve about myself is my software knowledge, which is why I currently take technology courses during the evenings and weekends.i love to travel many countries especially japan and korea beoz they have a lot of delicious food.😂😁☆*: .｡. o(≧▽≦)o .｡.:*☆☆*: .｡. o(≧▽≦)o .｡.:*☆**
+- 🐼 Currently [a beginner](a beginner)
+
+- ⚡ Fun fact **Something I can improve about myself is my software knowledge, which is why I currently take technology courses during the evenings and weekends.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,4 +31,3 @@
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prajwalajadhav&show_icons=true&locale=en&layout=compact" alt="prajwalajadhav" /></p>
-
