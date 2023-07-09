@@ -1,4 +1,5 @@
-[![MasterHead](https://github.com/Prajwalajadhav/Prajwalajadhav/assets/90131607/4dad3b3e-9d0e-4159-bb14-49104a2422c6)
+[![MasterHead](https://github.com/Prajwalajadhav/Prajwalajadhav/assets/90131607/64cd613d-e072-4d00-bc02-2b228a0b89a4)
+
 
 
 
