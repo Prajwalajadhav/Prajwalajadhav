@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **prajwalajadhav27@gmail.com**
 
-- 🐼 Currently [a beginner](a beginner)
+- 🐼 Currently a beginner
 
 - ⚡ Fun fact **Something I can improve about myself is my software knowledge, which is why I currently take technology courses during the evenings and weekends.**
 
