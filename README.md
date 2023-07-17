@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **about artificial intelligence.**
 
-- 💬 Ask me about **CPP,JAVA ,C,HTML.**
+- 💬 Ask me about **CPP,JAVA ,C,HTML,CSS.**
 
 - 📫 How to reach me **prajwalajadhav27@gmail.com**
 
