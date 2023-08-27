@@ -17,8 +17,7 @@
 
 - 🐼 Currently (a beginner)
 
-- ⚡ Fun fact **Something I can improve about myself is my software knowledge, which is why I currently take technology courses during the evenings and weekends.**
-
+- ⚡ Fun fact **When I'm not sketching out lines of code, I'm sketching on paper. I have an artistic passion for drawing, where I find a unique connection between creativity and logic. Just as I blend colors on canvas, I blend problem-solving techniques to create innovative solutions. From pixels to pencils, my love for art and coding constantly fuels my journey as a budding computer science enthusiast**
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/praju510/)[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prajwala-jadhav-61b964276) 
 
