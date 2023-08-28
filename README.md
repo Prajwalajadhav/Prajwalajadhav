@@ -7,9 +7,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prajwalajadhav&label=Profile%20views&color=0e75b6&style=flat" alt="prajwalajadhav" /> </p>
 
-- 🔭 I’m currently **working on myself to learn new things about programming**
-
-- 🌱 I’m currently learning **about artificial intelligence.**
+- 🔭 Curious Mind in the World of Code | Embracing Challenges | Future Tech Visionary 
+  
 
 - 💬 Ask me about **CPP,JAVA ,C,HTML,CSS.**
 
